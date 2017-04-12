@@ -44,3 +44,4 @@ Gala360Photos.VC.db
 /download/
 feed*.json
 _build
+Assets/Plugins/Android/assets/oculussig_*
